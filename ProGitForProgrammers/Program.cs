@@ -7,7 +7,7 @@ namespace ProGitForProgrammers
             Console.WriteLine("Hello World!");
             Console.WriteLine("I just added this in VS Code");
             Console.WriteLine("I just added this in VS Code");
-            Console.WriteLine("This will NOT be a conflict");
+            Console.WriteLine("This will SO be a conflict");
         }
     }
 }
